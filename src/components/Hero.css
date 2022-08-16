@@ -1,0 +1,38 @@
+.image-container img{
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.profile-container img{
+    height: 300px;
+    border-radius: 400px;
+    margin-bottom: 200px;
+}
+.hero {
+    grid-area: hero;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://media.discordapp.net/attachments/701164137081733201/1009138035557924915/dsadsa.jpg?width=367&height=652");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: space-around;
+}
+.mail{
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.card{
+    line-height: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    text-transform: uppercase;
+    color: rgb(66, 141, 160);
+    font-size: 34px;
+}

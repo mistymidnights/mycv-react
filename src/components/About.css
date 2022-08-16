@@ -1,0 +1,23 @@
+.about-container{
+    padding-top: 40px;
+    font-size: 14px;
+    width: 70%;
+    text-align: justify;
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(153, 153, 153);
+    padding-left: 80px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.info{
+    line-height: 5px;
+    font-size: 13px;
+    padding-left: 20px;
+}
+.text{
+    margin-top: 40px;
+    font-size: 13px;
+}
