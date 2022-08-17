@@ -1,45 +1,50 @@
-.image-container img{
-    height: 40px;
-    margin-right: 10px;
-    margin-left: 10px;
+.image-container img {
+  height: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .profile-container img {
-    height: 381px;
-    margin-bottom: 137px;
-    clip-path: circle();
+  height: 381px;
+  margin-bottom: 137px;
+  clip-path: circle();
 }
 .hero {
-    grid-area: hero;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-image: url("https://media.discordapp.net/attachments/701164137081733201/1009255275880005703/wp6027994-mobile-on-coding-wallpapers.jpg?width=367&height=652");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-attachment: fixed;
-    padding: 40px;
-    padding-top: 67px;
-    font-family: 'Quicksand', sans-serif;
-    justify-content: flex-start;
-    width: 400px;
+  grid-area: hero;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("https://media.discordapp.net/attachments/701164137081733201/1009255275880005703/wp6027994-mobile-on-coding-wallpapers.jpg?width=367&height=652");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  padding: 40px;
+  padding-top: 67px;
+  font-family: "Quicksand", sans-serif;
+  justify-content: flex-start;
+  width: 400px;
 }
-.mail{
-    color: white;
-    font-size: 12px;
-    letter-spacing: 2px;
+.mail {
+  color: white;
+  font-size: 12px;
+  letter-spacing: 2px;
 }
-.card{
-    line-height: 0px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.card {
+  line-height: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-h2{
-    text-transform: uppercase;
-    color: rgb(94, 180, 201);
-    font-size: 34px;
-    text-shadow: 2px 2px 5px black;
+.nametitle {
+  font-family: "Quicksand", sans-serif;
+  text-transform: uppercase;
+  font-size: 34px;
 }
-.text-content{
-    text-shadow: 2px 2px 5px black;
+h2 {
+  text-transform: uppercase;
+  color: rgb(94, 180, 201);
+  font-size: 34px;
+  text-shadow: 2px 2px 5px black;
+}
+.text-content {
+  text-shadow: 2px 2px 5px black;
 }

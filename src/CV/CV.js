@@ -31,7 +31,7 @@ export const CV = {
         info: "Spanish, English & 日本語 💬​",
       },
       {
-        text: "Actualmente estudiante de Full-Stack Developer en NEOLAND. Perfil audiovisual técnico/creativo: estudios oficiales en el ámbito de la fotografía, captación, tratamiento e iluminación de la imagen (tanto estática como en movimiento). Experiencia laboral y realización de trabajos directamente relacionados con fotografía y videografía en diferentes ámbitos y ambientes (plató, estudios, exteriores e interiores) para todo tipo de filmaciones, actividades y espectáculos de entretenimiento (photo y videobooks, clips, reportajes, cortometrajes, vídeo experimental y documental creativo, teatro, conciertos",
+        text: "Currently a Full-Stack Developer student at NEOLAND. Technical/creative audiovisual profile: official studies in the field of photography, image capture, processing and lighting (both static and moving). Work experience and work experience directly related to photography and videography in different areas and environments (set, studios, exteriors and interiors) for all types of filming, activities and entertainment shows (photo and videobooks, clips, reports, short films, experimental and creative documentary video, theater, concerts, etc.).",
       },
     ],
   },
@@ -42,42 +42,42 @@ export const CV = {
       where: "NEOLAND",
     },
     {
-      name: "Operador de cámara",
+      name: "Camera Operator",
       date: "2019 - 2020",
       where: "CES, Escuela Superior de Imagen y Sonido",
     },
     {
-      name: "Técnico Iluminación, captación y tratamiento de la imagen",
+      name: "LIGHTING, IMAGE CAPTURE AND PROCESSING TECHNICIAN",
       date: "2017 - 2019",
       where: "IES Puerta Bonita",
     },
     {
-      name: "Técnico Laboratorio de Imagen",
+      name: "IMAGE LAB TECHNICIAN",
       date: "2015 - 2017",
       where: "IES Puerta Bonita",
     },
   ],
   experience: [
     {
-      name: "Verificación y edición",
+      name: "VERIFICATION (quality check) AND EDITING",
       date: "mar. 2019 - jun. 2019",
-      where: "ML Fotógrafos",
+      where: "Movistar+",
       description:
-        "Parte del proceso de control de calidad de la cadena para su plataforma VOD y programación en diferido. Edición de video en AVID, archivo en cinta...",
+        "Part of the network's quality control process for its VOD platform and time-shifted programming. Video editing in AVID, tape archiving...",
     },
     {
-      name: "Ayudante de fotógrafo, edición de foto y vídeo",
+      name: "PHOTOGRAPHER'S ASSISTANT, PHOTO AND VIDEO EDITING",
       date: "nov. 2016 - feb. 2017",
       where: "ML Fotógrafos",
       description:
-        "Realización de fotografías y reporterismo gráfico, edición, postprodución y montaje de vídeos",
+        "Photography and photojournalism, editing, post-production and video editing",
     },
     {
-      name: "Edición y postprodución digital, realización de fotografías y atención al público",
+      name: "DIGITAL EDITING AND POST-PRODUCTION, PHOTO SHOOTING AND CUSTOMER SERVICE",
       date: "sept. 2016 - nov. 2016",
       where: "GLOBOCOLOR",
       description:
-        "Realización de fotografías y reporterismo gráfico, edición, postprodución y montaje de vídeos",
+        "Photography and photojournalism, editing, post-production and video editing",
     },
   ],
   languages: [
