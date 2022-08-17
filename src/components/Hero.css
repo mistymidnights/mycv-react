@@ -15,7 +15,7 @@
   align-items: center;
   background-image: url("https://media.discordapp.net/attachments/701164137081733201/1009255275880005703/wp6027994-mobile-on-coding-wallpapers.jpg?width=367&height=652");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
   padding: 40px;
   padding-top: 67px;
