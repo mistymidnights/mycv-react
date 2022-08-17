@@ -1,0 +1,35 @@
+.skillcard {
+  line-height: 0px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  color: rgb(66, 141, 160);
+  padding-left: 80px;
+  padding-right: 88px;
+  padding-bottom: 100px;
+  font-weight: bold;
+  color: rgb(123, 123, 123);
+  font-family: "Quicksand", sans-serif;
+}
+.skillcard p {
+  font-size: 20px;
+}
+.languages-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 60px;
+  padding-left: 80px;
+}
+.languages-cont {
+  display: flex;
+  line-height: 0px;
+}
+.languages-card h3 {
+  text-transform: uppercase;
+  color: rgb(94, 180, 201);
+  font-size: 30px;
+  text-shadow: 2px 2px 5px black;
+  text-transform: capitalize;
+}

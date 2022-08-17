@@ -1,7 +1,7 @@
-.education{
+.education {
   display: flex;
   padding-top: 50px;
-  padding-bottom: 40px;
+  /*   padding-bottom: 40px; */
   color: rgb(153, 153, 153);
   height: 600px;
 }
@@ -11,16 +11,16 @@
   padding-left: 80px;
   gap: 10px;
 }
-p{
+p {
   margin: 20px;
   font-size: 14px;
 }
-.name{
+.name {
   font-size: 20px;
   text-transform: uppercase;
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: rgb(66, 141, 160);
 }
-.inner-text{
+.inner-text {
   font-weight: bold;
 }

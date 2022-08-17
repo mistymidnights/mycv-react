@@ -1,30 +1,29 @@
-.experience{
-    display: flex;
-    padding-top: 50px;
-    padding-bottom: 40px;
-    color: rgb(153, 153, 153);
-    height: 600px;
-  }
-  .experience .card {
-    display: flex;
-    align-items: flex-start;
-    padding-left: 80px;
-    gap: 10px;
-  }
-  p{
-    margin: 20px;
-    font-size: 14px;
-  }
-  .name{
-    font-size: 20px;
-    text-transform: uppercase;
-    font-family: 'Quicksand', sans-serif;
-    color: rgb(66, 141, 160);
-    line-height: 20px;
-  }
-  .inner-text{
-    font-weight: bold;
-  }
-  .inner-text-description{
-    line-height: 20px;
-  }
+.experience {
+  display: flex;
+  padding-top: 50px;
+  /*     padding-bottom: 40px; */
+  color: rgb(153, 153, 153);
+  height: 600px;
+}
+.experience .card {
+  display: flex;
+  align-items: flex-start;
+  padding-left: 80px;
+  gap: 10px;
+}
+p {
+  margin: 20px;
+  font-size: 14px;
+}
+.name {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "Quicksand", sans-serif;
+  line-height: 20px;
+}
+.inner-text {
+  font-weight: bold;
+}
+.inner-text-description {
+  line-height: 20px;
+}
