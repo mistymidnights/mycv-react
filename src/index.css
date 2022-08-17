@@ -25,6 +25,7 @@
   display: grid;
   grid-template-columns: 0.7fr 1.3fr;
   grid-auto-rows: auto;
+  height: 1300px;
   grid-template-areas:
   "hero about-container"
   "hero education"

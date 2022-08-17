@@ -9,7 +9,7 @@ import Experience from "./components/Experience"
 const { hero, education, experience, languages, habilities } = CV;
 
 function App() {
-  const [ showEdu, showExp ] = useState(true);
+  const [ showEdu, setShowEdu ] = useState(true);
   return (
     <div className="App">
         <Hero hero={hero} />
@@ -18,8 +18,7 @@ function App() {
           <button onClick={() => setShowEdu(true)}>Show education</button>
           <button onClick={() => setShowEdu(false)}>Show Experience</button>
         </div>
-        <Education education={education} />
-        <Experience experience={experience} />
+        { showEdu ? (<Education education={education} />) : (<Experience experience={experience} />) }
     </div>
   );
 }

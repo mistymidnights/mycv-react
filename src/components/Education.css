@@ -1,8 +1,9 @@
 .education{
   display: flex;
-  padding-top: 5px;
+  padding-top: 50px;
   padding-bottom: 40px;
   color: rgb(153, 153, 153);
+  height: 600px;
 }
 .education .card {
   display: flex;

@@ -5,7 +5,7 @@ export const CV = {
       city: "Madrid | Spain",
       email: "mistydeveloping@gmail.com",
       birthDate: "24/10/1996",
-      image: "https://media.discordapp.net/attachments/701164137081733201/1009123208886227094/70a82813ab3ae799cf92dc9afb876e03.jpg",
+      image: "https://media.discordapp.net/attachments/701164137081733201/1009048743758286858/DSC6713_copia.jpg?width=652&height=652",
       gitHub: "https://github.com/mistymidnights",
       gitHubLogo: "https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png",
       linkedin: "https://www.linkedin.com/in/cristina-l-165a9218a/s",

@@ -11,13 +11,15 @@ const Hero = ({ hero }) => {
         <h2>
           Cristina López
         </h2>
-          <p>📍{hero.city} </p>
+        <div className="text-content">
+                    <p>📍{hero.city} </p>
           <p>{hero.birthDate}</p>
           <p>
             <a className="mail" href={"mailto:" + hero.email}>
             mistydeveloping@gmail.com
             </a>
           </p>
+        </div>
           <div className="image-container">
             <a href={hero.gitHub}><img src={hero.gitHubLogo} alt="github/misty" /></a>
             <a href={hero.linkedin}><img src={hero.linkedinLogo} alt="linkedin/misty" /></a>
